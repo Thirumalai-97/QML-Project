@@ -1,2 +1,2 @@
-# QML-Project
+# QML Project
 VQC Classifier Project
