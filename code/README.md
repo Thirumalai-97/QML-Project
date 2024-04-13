@@ -1,4 +1,4 @@
-[maxiter100.ipynb]()
+[maxiter100.ipynb](code/maxiter100.ipynb)
 
 maxiter increased to 100 and got 
 Accuracy = 40.46875
